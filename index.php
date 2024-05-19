@@ -16,7 +16,7 @@
         <form action="insertAction.php" method="post">
             <input type="text" name="name" style="width: 40px">
             <input type="text" name="gender" style="width: 40px">
-            <input type="email" name="email" style="width: 60px">
+            <input type="email" name="email" style="width: 160px">
             <input type="submit" value="enter">
         </form>
     </div>
